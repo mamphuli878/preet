@@ -1,6 +1,5 @@
-import React from 'react';
 import { motion } from 'framer-motion';
-import { Heart, Calendar, MapPin, Coffee, Film, Music } from 'lucide-react';
+import { Heart, Coffee, Music } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 
 export default function Timeline() {
